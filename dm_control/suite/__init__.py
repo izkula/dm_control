@@ -20,6 +20,7 @@ import inspect
 import itertools
 
 from dm_control.rl import control
+from dm_control.suite import reacherloca
 
 from dm_control.suite import acrobot
 from dm_control.suite import ball_in_cup
